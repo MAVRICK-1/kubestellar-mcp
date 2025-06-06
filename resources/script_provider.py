@@ -1,6 +1,5 @@
 from typing import Dict
 
-import httpx
 
 from config.settings import settings
 from utils.logger import setup_logger
